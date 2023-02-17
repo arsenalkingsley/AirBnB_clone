@@ -1,0 +1,2 @@
+THIS IS THE README FILE FOR THE WEB_STATIC PROJECT 
+# 0x01. AirBnB clone - Web static
